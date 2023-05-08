@@ -6,7 +6,7 @@
 
 --- 
 
-**blod** <br>
+<!-- **blod** <br>
 *itailc*
 ~~취소선
 
@@ -21,7 +21,7 @@ print('파이선 코딩')
 ```
 😏
 😂
-
+ -->
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mingyuda)](https://github.com/깃허브아이디)
