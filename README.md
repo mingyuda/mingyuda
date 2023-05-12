@@ -24,7 +24,7 @@ print('파이선 코딩')
 😂
  -->
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?mingyuda
+[![Mingyuda's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mingyuda)]()
 
 
 
