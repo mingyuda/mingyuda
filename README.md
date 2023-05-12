@@ -24,11 +24,9 @@ print('파이선 코딩')
 😂
  -->
 
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?mingyuda
 
-[![Mingyuda's github stats]([https://github-readme-stats.vercel.app/api?username=mingyuda])(https://github.com/mingyuda/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuda)]
 
 
 
